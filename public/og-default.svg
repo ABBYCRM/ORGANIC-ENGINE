@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e7df5"/>
+      <stop offset="1" stop-color="#1b478d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(80,80)">
+    <rect width="80" height="80" rx="16" fill="#ffffff"/>
+    <text x="40" y="56" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="40" font-weight="800" fill="#1e7df5">SR</text>
+  </g>
+  <text x="80" y="280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="800" fill="#ffffff">SEO Ranker</text>
+  <text x="80" y="350" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32" font-weight="500" fill="#bce5ff">Practical SEO services</text>
+  <text x="80" y="395" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32" font-weight="500" fill="#bce5ff">for teams that want durable organic growth.</text>
+  <text x="80" y="555" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="500" fill="#d9f1ff">seo-ranker.example.com</text>
+</svg>
