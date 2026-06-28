@@ -80,7 +80,7 @@ test.describe('static files', () => {
     const res = await request.get('/llms.txt');
     expect(res.status()).toBe(200);
     const body = await res.text();
-    expect(body).toMatch(/SEO Ranker/i);
+    expect(body).toMatch(/Organic Engine/i);
     expect(body).toMatch(/Summary/i);
   });
 });

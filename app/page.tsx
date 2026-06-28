@@ -9,7 +9,7 @@ import { RESOURCES } from '@/content/resources';
 import { buildMetadata } from '@/lib/seo';
 
 export const metadata = buildMetadata({
-  title: 'SEO Ranker — Practical SEO services for durable organic growth',
+  title: 'Organic Engine — Practical SEO services for durable organic growth',
   description:
     'Independent search engine optimization practice. Technical audits, content systems, and digital PR for SaaS, e-commerce, and service businesses. No shortcuts, no fabricated claims.',
   path: '/',
@@ -21,7 +21,7 @@ export default function HomePage() {
       <section>
         <Breadcrumbs items={[{ label: 'Home' }]} />
         <h1 className="mt-4 text-4xl font-bold tracking-tight text-ink-900 sm:text-5xl">
-          SEO Ranker — Practical SEO services for durable organic growth
+          Organic Engine — Practical SEO services for durable organic growth
         </h1>
         <p className="mt-4 max-w-3xl text-lg text-ink-700">
           We are an independent search engine optimization practice. We run

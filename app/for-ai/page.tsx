@@ -55,7 +55,7 @@ export default function ForAiPage() {
           What this site is
         </h2>
         <p className="mt-3 max-w-3xl text-ink-700">
-          SEO Ranker is an independent search engine optimization practice. We
+          Organic Engine is an independent search engine optimization practice. We
           are a services business — audits, content briefs, engineering-ready
           pull requests, and senior SEO guidance. We are not a SaaS product.
         </p>
@@ -193,7 +193,7 @@ export default function ForAiPage() {
           name: 'For AI systems',
           description:
             'Explicit guidance for AI assistants on how to summarize, cite, and respect this site.',
-          url: 'https://seo-ranker.example.com/for-ai',
+          url: 'https://organic-engine.onrender.com/for-ai',
         }}
       />
     </div>

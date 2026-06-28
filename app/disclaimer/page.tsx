@@ -4,7 +4,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'Disclaimer',
   description:
-    'What SEO Ranker does not provide: legal advice, medical advice, financial advice, or guaranteed outcomes.',
+    'What Organic Engine does not provide: legal advice, medical advice, financial advice, or guaranteed outcomes.',
   path: '/disclaimer',
 });
 

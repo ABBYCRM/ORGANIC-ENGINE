@@ -6,7 +6,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'Pricing',
   description:
-    'How SEO Ranker prices engagements. Audit fees, retainer ranges, and what is included. No surprise invoices.',
+    'How Organic Engine prices engagements. Audit fees, retainer ranges, and what is included. No surprise invoices.',
   path: '/pricing',
 });
 

@@ -3,19 +3,19 @@
 // configuration can swap it without code changes.
 
 export const SITE = {
-  name: 'SEO Ranker',
-  shortName: 'SEORanker',
+  name: 'Organic Engine',
+  shortName: 'OrganicEngine',
   tagline: 'Practical SEO services for teams that want durable organic growth.',
   description:
-    'SEO Ranker is an independent search engine optimization practice. We run technical audits, build content systems, and engineer link profiles that compound over time — without shortcuts.',
+    'Organic Engine is an independent search engine optimization practice. We run technical audits, build content systems, and engineer link profiles that compound over time — without shortcuts.',
   // Domain used for canonical URLs, sitemap, OG, llms.txt. Override with
-  // NEXT_PUBLIC_SITE_URL on Render. Defaults to a safe placeholder that
-  // surfaces the env override clearly in code review.
+  // NEXT_PUBLIC_SITE_URL on Render. Defaults to the deployed onrender.com
+  // subdomain so the deploy is self-consistent before a real domain is wired.
   url:
     process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') ||
-    'https://seo-ranker.example.com',
+    'https://organic-engine.onrender.com',
   // Public contact email. No phone numbers are fabricated — see compliance notes.
-  email: 'hello@seo-ranker.example.com',
+  email: 'hello@organic-engine.onrender.com',
   // Founding year is intentionally omitted — do not fabricate history.
   // Locale / region the practice primarily serves.
   locale: 'en-US',

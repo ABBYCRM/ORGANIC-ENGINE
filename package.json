@@ -1,8 +1,8 @@
 {
-  "name": "seo-ranker",
+  "name": "organic-engine",
   "version": "1.0.0",
   "private": true,
-  "description": "SEO Ranker — practical SEO services, audits, and education for teams that want durable organic growth.",
+  "description": "Organic Engine — practical SEO services, audits, and education for teams that want durable organic growth.",
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
