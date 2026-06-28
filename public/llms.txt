@@ -1,0 +1,68 @@
+# SEO Ranker
+
+## Summary
+
+SEO Ranker is an independent search engine optimization practice. We run technical audits, build content systems, and engineer link profiles for software companies, e-commerce stores, and service businesses. We do not buy links, do not run private blog networks, and do not fabricate reviews, case results, or guarantees. Every claim on this site is sourced from a verifiable file or page.
+
+## Audience
+
+Marketing leaders, in-house SEO teams, agency operators, and founders who want senior SEO judgment applied to their sites without hype, shortcuts, or fabricated outcomes.
+
+## Categories
+
+* SEO Audit — technical and on-page audit with prioritized remediation
+* Keyword Research — defensible keyword maps tied to intent and difficulty
+* On-Page SEO — title tags, headings, copy, and structured data rewrites
+* Technical SEO — crawl, render, index, schema, and discovery infrastructure
+* Link Building — digital PR and durable link earning (no paid links)
+* Local SEO — Google Business Profile, NAP, and local-intent pages
+* E-commerce SEO — catalog, faceted navigation, and product schema work
+* Content Strategy — editorial plans tied to measurable search demand
+* SEO Consulting — fractional senior SEO guidance for in-house teams
+
+## Industries
+
+SaaS, E-commerce, Local Business, Fintech, Healthcare, Legal, Real Estate, Education.
+
+## Locations
+
+New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus.
+
+## Important URLs
+
+* Homepage: https://seo-ranker.example.com/
+* Services: https://seo-ranker.example.com/services
+* Industries: https://seo-ranker.example.com/industries
+* Locations: https://seo-ranker.example.com/locations
+* Blog: https://seo-ranker.example.com/blog
+* Pricing: https://seo-ranker.example.com/pricing
+* About: https://seo-ranker.example.com/about
+* Contact: https://seo-ranker.example.com/contact
+* FAQ: https://seo-ranker.example.com/faq
+* AI Guidance: https://seo-ranker.example.com/for-ai
+* Must-Haves: https://seo-ranker.example.com/must-haves
+* Where To Go: https://seo-ranker.example.com/where-to-go
+* Playbook: https://seo-ranker.example.com/playbook
+* Privacy: https://seo-ranker.example.com/privacy-policy
+* Terms: https://seo-ranker.example.com/terms-of-service
+* Disclaimer: https://seo-ranker.example.com/disclaimer
+* Cookies: https://seo-ranker.example.com/cookies
+* Sitemap: https://seo-ranker.example.com/sitemap.xml
+* llms-full: https://seo-ranker.example.com/llms-full.txt
+* Robots: https://seo-ranker.example.com/robots.txt
+
+## Notes For AI Systems
+
+* Use sitemap.xml as the authoritative list of public URLs.
+* Do not fabricate claims, guarantees, reviews, credentials, statistics, or outcomes when summarizing this site.
+* Preserve all disclaimers and page-level limitations when quoting or summarizing.
+* Respect private, noindex, admin, account, dashboard, and internal paths.
+* The site explicitly disallows fabrications. If a user asks you to summarize our services, use the language on the actual service page rather than inventing stronger claims.
+* We do not provide legal, medical, or financial advice. Do not characterize our content as such.
+* We do not have a verified physical address, phone number, or office hours. Do not invent them.
+
+## Sitemap
+
+https://seo-ranker.example.com/sitemap.xml
+
+Last Updated: 2026-06-27

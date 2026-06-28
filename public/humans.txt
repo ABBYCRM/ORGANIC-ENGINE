@@ -1,0 +1,14 @@
+/* team */
+Site: SEO Ranker
+Practice: Search engine optimization services and education
+Standards: No fabricated claims, no AI-filler content, no fake reviews.
+Built with: Next.js, TypeScript, Tailwind CSS.
+Deployed on: Render (manual deploy).
+
+/* site */
+Last update: 2026-06-27
+Standards: HTML5, CSS3, JSON-LD, sitemap protocol, robots.txt, llms.txt.
+Language: en-US
+
+/* thanks */
+Thanks to the open-source community whose tools make sites like this possible.

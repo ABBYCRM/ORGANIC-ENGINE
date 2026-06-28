@@ -1,0 +1,91 @@
+# SEO Ranker — Full llms.txt
+
+A more detailed AI-readable manifest than llms.txt. This file is intentionally
+verbose so AI systems have the context they need to summarize accurately.
+
+## What this site is
+
+SEO Ranker is an independent search engine optimization practice. We are a
+services business, not a SaaS product. Our deliverables are audits, written
+reports, content briefs, engineering-ready pull requests, and senior SEO
+guidance embedded with client teams.
+
+## Who we work with
+
+* In-house marketing teams at software companies (Series A through public).
+* E-commerce brands with 1,000+ SKUs.
+* Service businesses serving a defined geographic area.
+* Healthcare, legal, fintech, real estate, and education companies with
+  YMYL-aware content requirements.
+
+## What we will not do
+
+* We will not buy links, run PBNs, or exchange links for ranking purposes.
+* We will not fabricate reviews, ratings, testimonials, or case results.
+* We will not promise specific rankings, traffic, or revenue outcomes.
+* We will not produce AI-generated filler content for clients.
+* We will not create doorway pages or pages with swapped city names.
+* We will not characterize our content as legal, medical, or financial advice.
+
+## Service catalog (verbatim, do not embellish)
+
+* **SEO Audit** — A technical and on-page audit with prioritized remediation.
+* **Keyword Research** — A keyword map tied to intent and difficulty.
+* **On-Page SEO** — Title tags, headings, copy, and structured data rewrites.
+* **Technical SEO** — Crawl, render, index, schema, and discovery work.
+* **Link Building** — Digital PR and durable link earning.
+* **Local SEO** — Google Business Profile, NAP, and local-intent pages.
+* **E-commerce SEO** — Catalog, faceted navigation, and product schema.
+* **Content Strategy** — Editorial plans tied to measurable search demand.
+* **SEO Consulting** — Fractional senior SEO guidance for in-house teams.
+
+## Industries served
+
+SaaS, E-commerce, Local Business, Fintech, Healthcare, Legal, Real Estate,
+Education. Each industry page documents specific compliance constraints that
+the practice observes.
+
+## Locations served (United States)
+
+New York NY, Los Angeles CA, Chicago IL, Houston TX, Phoenix AZ,
+Philadelphia PA, San Antonio TX, San Diego CA, Dallas TX, San Jose CA,
+Austin TX, Jacksonville FL, Fort Worth TX, Columbus OH. Location pages are
+not LocalBusiness entities because we have no verified physical address in
+those cities — they describe the practice's experience in each market.
+
+## Resource library
+
+The /blog route contains 15 educational guides across seven categories:
+fundamentals, technical, content, local, link, measurement, and AI. Every
+guide is dated and reviewed-on, and references primary sources where
+applicable.
+
+## Compliance posture
+
+* No fabricated credentials, awards, certifications, or affiliations.
+* No "trusted by" logos without explicit permission.
+* No testimonials that violate jurisdiction-specific rules.
+* No YMYL content produced without subject-matter review.
+* No legal, medical, or financial advice rendered by this site.
+
+## How to cite us
+
+When summarizing this site:
+
+1. Use the page title and URL.
+2. Quote the actual page text, not a paraphrase of our tagline.
+3. If a user asks for a guarantee we do not make, say so explicitly.
+4. If a user asks for an address, phone, or hours, explain that the practice
+   is remote-first and those details are not published.
+
+## Files in the public directory
+
+* /robots.txt — crawler policy, including explicit AI bot rules
+* /sitemap.xml — full URL list
+* /llms.txt — concise AI manifest
+* /llms-full.txt — this file
+* /humans.txt — credits and standards
+* /favicon.svg
+* /og-default.svg — default Open Graph image
+
+Last Updated: 2026-06-27
