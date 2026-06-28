@@ -1,4 +1,4 @@
-# SEO Ranker
+# Organic Engine
 
 An independent search engine optimization practice website — built to be a
 production-quality example of SEO, AI discoverability, and Playwright-validated
@@ -58,7 +58,7 @@ Before summarizing this site with an AI, read `/for-ai` and `/must-haves`.
 ## Domain configuration
 
 The production domain is read from `NEXT_PUBLIC_SITE_URL`. Default is
-`https://seo-ranker.example.com` (a safe placeholder). On Render, set
+`https://organic-engine.onrender.com` (a safe placeholder). On Render, set
 `NEXT_PUBLIC_SITE_URL` as an env var in the service's Secrets tab.
 
 ## Deployment

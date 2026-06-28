@@ -4,7 +4,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'Terms of service',
   description:
-    'The terms under which SEO Ranker provides services. Plain English, no hidden clauses.',
+    'The terms under which Organic Engine provides services. Plain English, no hidden clauses.',
   path: '/terms-of-service',
 });
 
@@ -38,7 +38,7 @@ export default function TermsPage() {
 
         <h2>Intellectual property</h2>
         <p>
-          Content on this site is owned by SEO Ranker or used with permission.
+          Content on this site is owned by Organic Engine or used with permission.
           You may quote brief excerpts with attribution and a link back to the
           original page. You may not reproduce substantial portions without
           written permission.
@@ -69,7 +69,7 @@ export default function TermsPage() {
 
         <h2>Limitation of liability</h2>
         <p>
-          To the maximum extent permitted by law, SEO Ranker is not liable for
+          To the maximum extent permitted by law, Organic Engine is not liable for
           any indirect, incidental, or consequential damages arising from
           your use of this site.
         </p>

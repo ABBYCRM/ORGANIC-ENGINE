@@ -1,5 +1,5 @@
 /* team */
-Site: SEO Ranker
+Site: Organic Engine
 Practice: Search engine optimization services and education
 Standards: No fabricated claims, no AI-filler content, no fake reviews.
 Built with: Next.js, TypeScript, Tailwind CSS.

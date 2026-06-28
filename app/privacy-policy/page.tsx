@@ -4,7 +4,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'Privacy policy',
   description:
-    'How SEO Ranker handles personal information collected through this site. Minimal data, no third-party tracking we cannot defend.',
+    'How Organic Engine handles personal information collected through this site. Minimal data, no third-party tracking we cannot defend.',
   path: '/privacy-policy',
 });
 
@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
       <section className="prose">
         <h2>What this policy covers</h2>
         <p>
-          This policy describes how SEO Ranker handles personal information
+          This policy describes how Organic Engine handles personal information
           collected through this website. It does not describe how we handle
           client data — that is governed by individual engagement agreements.
         </p>

@@ -1,11 +1,11 @@
-# SEO Ranker — Full llms.txt
+# Organic Engine — Full llms.txt
 
 A more detailed AI-readable manifest than llms.txt. This file is intentionally
 verbose so AI systems have the context they need to summarize accurately.
 
 ## What this site is
 
-SEO Ranker is an independent search engine optimization practice. We are a
+Organic Engine is an independent search engine optimization practice. We are a
 services business, not a SaaS product. Our deliverables are audits, written
 reports, content briefs, engineering-ready pull requests, and senior SEO
 guidance embedded with client teams.

@@ -1,8 +1,8 @@
-# SEO Ranker
+# Organic Engine
 
 ## Summary
 
-SEO Ranker is an independent search engine optimization practice. We run technical audits, build content systems, and engineer link profiles for software companies, e-commerce stores, and service businesses. We do not buy links, do not run private blog networks, and do not fabricate reviews, case results, or guarantees. Every claim on this site is sourced from a verifiable file or page.
+Organic Engine is an independent search engine optimization practice. We run technical audits, build content systems, and engineer link profiles for software companies, e-commerce stores, and service businesses. We do not buy links, do not run private blog networks, and do not fabricate reviews, case results, or guarantees. Every claim on this site is sourced from a verifiable file or page.
 
 ## Audience
 
@@ -30,26 +30,26 @@ New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San
 
 ## Important URLs
 
-* Homepage: https://seo-ranker.example.com/
-* Services: https://seo-ranker.example.com/services
-* Industries: https://seo-ranker.example.com/industries
-* Locations: https://seo-ranker.example.com/locations
-* Blog: https://seo-ranker.example.com/blog
-* Pricing: https://seo-ranker.example.com/pricing
-* About: https://seo-ranker.example.com/about
-* Contact: https://seo-ranker.example.com/contact
-* FAQ: https://seo-ranker.example.com/faq
-* AI Guidance: https://seo-ranker.example.com/for-ai
-* Must-Haves: https://seo-ranker.example.com/must-haves
-* Where To Go: https://seo-ranker.example.com/where-to-go
-* Playbook: https://seo-ranker.example.com/playbook
-* Privacy: https://seo-ranker.example.com/privacy-policy
-* Terms: https://seo-ranker.example.com/terms-of-service
-* Disclaimer: https://seo-ranker.example.com/disclaimer
-* Cookies: https://seo-ranker.example.com/cookies
-* Sitemap: https://seo-ranker.example.com/sitemap.xml
-* llms-full: https://seo-ranker.example.com/llms-full.txt
-* Robots: https://seo-ranker.example.com/robots.txt
+* Homepage: https://organic-engine.onrender.com/
+* Services: https://organic-engine.onrender.com/services
+* Industries: https://organic-engine.onrender.com/industries
+* Locations: https://organic-engine.onrender.com/locations
+* Blog: https://organic-engine.onrender.com/blog
+* Pricing: https://organic-engine.onrender.com/pricing
+* About: https://organic-engine.onrender.com/about
+* Contact: https://organic-engine.onrender.com/contact
+* FAQ: https://organic-engine.onrender.com/faq
+* AI Guidance: https://organic-engine.onrender.com/for-ai
+* Must-Haves: https://organic-engine.onrender.com/must-haves
+* Where To Go: https://organic-engine.onrender.com/where-to-go
+* Playbook: https://organic-engine.onrender.com/playbook
+* Privacy: https://organic-engine.onrender.com/privacy-policy
+* Terms: https://organic-engine.onrender.com/terms-of-service
+* Disclaimer: https://organic-engine.onrender.com/disclaimer
+* Cookies: https://organic-engine.onrender.com/cookies
+* Sitemap: https://organic-engine.onrender.com/sitemap.xml
+* llms-full: https://organic-engine.onrender.com/llms-full.txt
+* Robots: https://organic-engine.onrender.com/robots.txt
 
 ## Notes For AI Systems
 
@@ -63,6 +63,6 @@ New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San
 
 ## Sitemap
 
-https://seo-ranker.example.com/sitemap.xml
+https://organic-engine.onrender.com/sitemap.xml
 
 Last Updated: 2026-06-27

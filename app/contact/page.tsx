@@ -6,7 +6,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'Contact',
   description:
-    'Get in touch with SEO Ranker. We respond to serious inquiries within two business days. No sales scripts, no fabricated case results.',
+    'Get in touch with Organic Engine. We respond to serious inquiries within two business days. No sales scripts, no fabricated case results.',
   path: '/contact',
 });
 

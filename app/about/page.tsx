@@ -6,7 +6,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata = buildMetadata({
   title: 'About the practice',
   description:
-    'How SEO Ranker operates — what we do, what we will not do, and how we engage with client teams.',
+    'How Organic Engine operates — what we do, what we will not do, and how we engage with client teams.',
   path: '/about',
 });
 
@@ -25,7 +25,7 @@ export default function AboutPage() {
       <section className="prose">
         <h2>What this practice is</h2>
         <p>
-          SEO Ranker is an independent search engine optimization practice. We
+          Organic Engine is an independent search engine optimization practice. We
           are a services business, not a product. Our deliverables are audits,
           written reports, content briefs, engineering-ready pull requests, and
           senior SEO guidance embedded with client teams.
